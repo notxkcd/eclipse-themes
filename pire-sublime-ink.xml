@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorTheme author="Ben Cable (Modified to match vim-pire)" id="32" name="Sublime Ink - vim-pire Edition">
+
+<!-- Base Colors from vim-pire -->
+<foreground color="#d0d0d0"/>  <!-- Normal text -->
+<background color="#000000"/>  <!-- Background -->
+<selectionForeground color="#ffffff"/>  <!-- Selected text -->
+<selectionBackground color="#0087d7"/>  <!-- Visual selection bg -->
+<currentLine color="#262626"/>  <!-- CursorLine bg -->
+<lineNumber color="#585858"/>  <!-- LineNr fg -->
+
+<!-- Search & Highlighting -->
+<searchResultIndication color="#00d75f"/>  <!-- Search bg -->
+<filteredSearchResultIndication color="#00d75f"/> 
+<occurrenceIndication color="#0087d7"/>  <!-- Visual bg -->
+<writeOccurrenceIndication color="#0087d7"/>
+<findScope color="#414C3B"/>  <!-- Kept original for contrast -->
+
+<!-- Syntax Highlighting -->
+<singleLineComment color="#767676"/>  <!-- Comment -->
+<multiLineComment color="#767676"/>  <!-- Comment -->
+<commentTaskTag color="#767676"/>  <!-- Comment -->
+<javadoc color="#767676"/>  <!-- Comment -->
+<javadocLink color="#828282"/>  <!-- Slightly lighter comment -->
+<javadocTag color="#828282"/>
+<javadocKeyword color="#828282"/>
+
+<class color="#ffaf00"/>  <!-- Type -->
+<interface color="#ffaf00"/>  <!-- Type -->
+<method color="#ff87ff"/>  <!-- Identifier -->
+<methodDeclaration color="#ff87ff"/>  <!-- Identifier -->
+<bracket color="#d0d0d0"/>  <!-- Normal text -->
+<number color="#ff5f87"/>  <!-- Constant -->
+<string color="#00d75f"/>  <!-- String -->
+<operator color="#d0d0d0"/>  <!-- Normal text -->
+<keyword color="#00afff"/>  <!-- Statement -->
+<annotation color="#00d7d7"/>  <!-- PreProc -->
+<staticMethod color="#ff87ff"/>  <!-- Identifier -->
+<localVariable color="#ff87ff"/>  <!-- Identifier -->
+<localVariableDeclaration color="#d0d0d0"/>  <!-- Normal text -->
+<field color="#ff87ff"/>  <!-- Identifier -->
+<staticField color="#ff87ff"/>  <!-- Identifier -->
+<staticFinalField color="#ff87ff"/>  <!-- Identifier -->
+
+<!-- Special Elements -->
+<sourceHoverBackground color="#303030"/>  <!-- Pmenu bg -->
+<deprecatedMember color="#ff5f87"/>  <!-- Error-like color -->
+<deletionIndication color="#d7005f"/>  <!-- diffRemoved -->
+<inheritedMethod color="#00d7d7"/>  <!-- PreProc -->
+<abstractMethod color="#00d7d7"/>  <!-- PreProc -->
+<parameterVariable color="#00afff"/>  <!-- Statement -->
+<typeArgument color="#ffaf00"/>  <!-- Type -->
+<typeParameter color="#ffaf00"/>  <!-- Type -->
+
+</colorTheme>

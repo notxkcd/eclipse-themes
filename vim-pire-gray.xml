@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorTheme author="Maxim Kim (vim-pire) &amp; Gemini (conversion)" id="vim-pire-dark" name="Vim-pire Gray">
+	<foreground color="#D0D0D0"/>
+	<background color="#1c1c1c"/>
+	<selectionForeground color="#FFFFFF"/>
+	<selectionBackground color="#0087D7"/>
+	<currentLine color="#262626"/>
+	<lineNumber color="#585858"/>
+
+	<searchResultIndication color="#00D75F"/>
+	<filteredSearchResultIndication color="#00D75F"/>
+	<occurrenceIndication color="#303030"/>
+	<writeOccurrenceIndication color="#303030"/>
+	<findScope color="#767676"/>
+	<sourceHoverBackground color="#303030"/>
+
+	<singleLineComment color="#767676" bold="false" italic="false"/>
+	<multiLineComment color="#767676" bold="false" italic="false"/>
+	<commentTaskTag color="#875FFF" bold="false" italic="false"/>
+	
+	<javadoc color="#767676" bold="false" italic="false"/>
+	<javadocLink color="#00AFFF" bold="false" italic="false"/>
+	<javadocTag color="#875FFF" bold="false" italic="false"/>
+	<javadocKeyword color="#00AFFF" bold="false" italic="false"/>
+
+	<class color="#FFAF00" bold="false" italic="false"/>
+	<interface color="#FFAF00" bold="false" italic="false"/>
+	<method color="#FF87FF" bold="false" italic="false"/>
+	<methodDeclaration color="#FF87FF" bold="false" italic="false"/>
+	<bracket color="#D0D0D0" bold="false" italic="false"/>
+	<number color="#FF5F87" bold="false" italic="false"/>
+	<string color="#00D75F" bold="false" italic="false"/>
+	<operator color="#D0D0D0" bold="false" italic="false"/>
+	<keyword color="#00AFFF" bold="false" italic="false"/>
+	<annotation color="#00D7D7" bold="false" italic="false"/>
+	
+	<staticMethod color="#00D75F" bold="false" italic="false"/>
+	<localVariable color="#D0D0D0" bold="false" italic="false"/>
+	<localVariableDeclaration color="#D0D0D0" bold="false" italic="false"/>
+	<field color="#FF87FF" bold="false" italic="false"/>
+	<staticField color="#FFAF00" bold="false" italic="false"/>
+	<staticFinalField color="#FF5F87" bold="false" italic="false"/>
+	<parameterVariable color="#875FFF" bold="false" italic="false"/>
+	<constant color="#FF5F87" bold="false" italic="false"/>
+	
+	<deprecatedMember color="#D7005F" bold="false" italic="false" strikethrough="true"/>
+	<deletionIndication color="#D7005F"/>
+	<enum color="#FFAF00" bold="false" italic="false"/>
+	<inheritedMethod color="#00D7D7" bold="false" italic="false"/>
+	<abstractMethod color="#00D7D7" bold="false" italic="false"/>
+	<typeArgument color="#767676" bold="false" italic="false"/>
+	<typeParameter color="#767676" bold="false" italic="false"/>
+</colorTheme>

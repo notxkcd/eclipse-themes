@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorTheme id="wildcharm" name="Wild Charm" modified="2025-07-04">
+    <!-- General Editor Colors -->
+    <background color="#000000"/> <!-- Normal guibg -->
+    <foreground color="#d0d0d0"/> <!-- Normal guifg -->
+    <selectionBackground color="#5fd7ff"/> <!-- Visual guifg -->
+    <selectionForeground color="#000000"/> <!-- Visual guibg -->
+    <currentLine color="#262626"/> <!-- CursorLine guibg -->
+    <lineNumber color="#585858"/> <!-- LineNr guifg -->
+    <searchResultIndication color="#00d75f"/> <!-- Search guibg -->
+    <filteredSearchResultIndication color="#ffaf00"/> <!-- IncSearch guibg -->
+    <occurrenceIndication color="#303030"/> <!-- ColorColumn guibg -->
+    <writeOccurrenceIndication color="#303030"/> <!-- ColorColumn guibg -->
+    <findScope color="#585858"/> <!-- NonText guifg -->
+    <deletionIndication color="#875f5f"/> <!-- DiffDelete guibg -->
+    <sourceHoverBackground color="#303030"/> <!-- Pmenu guibg -->
+    <matchBracket color="#ff00af" bold="true"/> <!-- MatchParen guifg -->
+    
+    <!-- General Syntax Highlighting -->
+    <comment color="#767676"/> <!-- Comment guifg -->
+    <singleLineComment color="#767676"/> <!-- Comment guifg -->
+    <multiLineComment color="#767676"/> <!-- Comment guifg -->
+    <commentTaskTag color="#875fff" bold="true"/> <!-- Todo guifg -->
+    <constant color="#ff5f87"/> <!-- Constant guifg -->
+    <string color="#00d75f"/> <!-- String guifg -->
+    <character color="#00d75f"/> <!-- String guifg -->
+    <number color="#ff5f87"/> <!-- Constant guifg -->
+    <keyword color="#00afff" bold="true"/> <!-- Statement guifg -->
+    <type color="#ffaf00" bold="true"/> <!-- Type guifg -->
+    <identifier color="#ff87ff"/> <!-- Identifier guifg -->
+    <preprocessor color="#00d7d7"/> <!-- PreProc guifg -->
+    <special color="#875fff"/> <!-- Special guifg -->
+    <error color="#d7005f"/> <!-- Error guifg -->
+    
+    <!-- Java-Specific Settings -->
+    <javaAnnotation color="#00d7d7"/> <!-- PreProc guifg -->
+    <javaAnnotationTag color="#00d7d7"/> <!-- PreProc guifg -->
+    <javaClassDecl color="#ffaf00" bold="true"/> <!-- Type guifg -->
+    <javaMethodDecl color="#ff87ff"/> <!-- Identifier guifg -->
+    <javaFieldDecl color="#ff87ff"/> <!-- Identifier guifg -->
+    <javaLocalDecl color="#ff87ff"/> <!-- Identifier guifg -->
+    <javaOperator color="#00afff"/> <!-- Statement guifg -->
+    <javaBracket color="#d0d0d0"/> <!-- Normal guifg -->
+    <javaString color="#00d75f"/> <!-- String guifg -->
+    <javaComment color="#767676"/> <!-- Comment guifg -->
+    <javaJavadoc color="#767676"/> <!-- Comment guifg -->
+    <javaJavadocTag color="#875fff" bold="true"/> <!-- Todo guifg -->
+    
+    <!-- Python-Specific Settings -->
+    <pythonString color="#00d75f"/> <!-- String guifg -->
+    <pythonNumber color="#ff5f87"/> <!-- Constant guifg -->
+    <pythonKeyword color="#00afff" bold="true"/> <!-- Statement guifg -->
+    <pythonFunction color="#ff87ff"/> <!-- Identifier guifg -->
+    <pythonClass color="#ffaf00" bold="true"/> <!-- Type guifg -->
+    <pythonComment color="#767676"/> <!-- Comment guifg -->
+    <pythonDecorator color="#00d7d7"/> <!-- PreProc guifg -->
+    
+    <!-- XML/HTML-Specific Settings -->
+    <xmlTag color="#00afff" bold="true"/> <!-- Directory guifg -->
+    <xmlTagName color="#00afff" bold="true"/> <!-- Directory guifg -->
+    <xmlAttrib color="#ff87ff"/> <!-- Identifier guifg -->
+    <xmlString color="#00d75f"/> <!-- String guifg -->
+    <xmlComment color="#767676"/> <!-- Comment guifg -->
+    
+    <!-- UI Elements -->
+    <popupMenu color="#d0d0d0" background="#303030"/> <!-- Pmenu -->
+    <popupMenuSelection color="#d0d0d0" background="#585858"/> <!-- PmenuSel -->
+    <statusLine color="#9e9e9e" background="#000000" bold="true"/> <!-- Statusline -->
+    <statusLineNC color="#767676" background="#000000"/> <!-- StatuslineNC -->
+    <verticalSplit color="#767676"/> <!-- VertSplit guifg -->
+    <tabLineSel color="#000000" background="#9e9e9e" bold="true"/> <!-- TabLineSel -->
+    <tabLine color="#000000" background="#767676"/> <!-- TabLine -->
+    <tabLineFill color="#000000"/> <!-- TabLineFill guibg -->
+</colorTheme>
